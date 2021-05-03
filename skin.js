@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.9/17983
 // Filename: bajkoland_skin.ggsk
-// Generated 2021-05-03T11:16:50
+// Generated 2021-05-03T12:11:22
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -12,7 +12,7 @@ function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnail_menu_show', 2, false);
 	player.addVariable('opt_thumbnail_tooltip', 2, true);
 	player.addVariable('opt_projection', 2, true);
-	player.addVariable('opt_gyro', 2, true);
+	player.addVariable('opt_gyro', 2, false);
 	player.addVariable('opt_fullscreen', 2, true);
 	player.addVariable('opt_loader', 2, true);
 	player.addVariable('opt_loader_mulires', 2, true);
